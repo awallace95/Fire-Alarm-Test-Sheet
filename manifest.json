@@ -1,0 +1,21 @@
+{
+  "name": "Fire Alarm Test Report",
+  "short_name": "Fire Alarm Report",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=Logo",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=Logo",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
